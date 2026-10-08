@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-15f30fce7c.wuvdrd.cn/sitemap.xml
